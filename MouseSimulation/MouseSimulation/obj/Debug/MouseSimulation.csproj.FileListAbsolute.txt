@@ -1,0 +1,13 @@
+C:\Users\Ghost\source\MouseSimulation\MouseSimulation\bin\Debug\MouseSimulation.exe.config
+C:\Users\Ghost\source\MouseSimulation\MouseSimulation\bin\Debug\MouseSimulation.exe
+C:\Users\Ghost\source\MouseSimulation\MouseSimulation\bin\Debug\MouseSimulation.pdb
+C:\Users\Ghost\source\MouseSimulation\MouseSimulation\bin\Debug\WindowsInput.dll
+C:\Users\Ghost\source\MouseSimulation\MouseSimulation\bin\Debug\WindowsInput.xml
+C:\Users\Ghost\source\MouseSimulation\MouseSimulation\obj\Debug\MouseSimulation.csprojAssemblyReference.cache
+C:\Users\Ghost\source\MouseSimulation\MouseSimulation\obj\Debug\MouseSimulation.Form1.resources
+C:\Users\Ghost\source\MouseSimulation\MouseSimulation\obj\Debug\MouseSimulation.Properties.Resources.resources
+C:\Users\Ghost\source\MouseSimulation\MouseSimulation\obj\Debug\MouseSimulation.csproj.GenerateResource.cache
+C:\Users\Ghost\source\MouseSimulation\MouseSimulation\obj\Debug\MouseSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\source\MouseSimulation\MouseSimulation\obj\Debug\MouseSimulation.csproj.CopyComplete
+C:\Users\Ghost\source\MouseSimulation\MouseSimulation\obj\Debug\MouseSimulation.exe
+C:\Users\Ghost\source\MouseSimulation\MouseSimulation\obj\Debug\MouseSimulation.pdb
